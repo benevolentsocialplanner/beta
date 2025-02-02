@@ -1,3 +1,10 @@
+Keep in mind that this is an unfinished project. 
+todos: 
+[] Create a dockerfile. 
+[] when uploaded analyze and carve out a pattern
+[] 2 post requests are required
+[] create modules for merchant separetely
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
